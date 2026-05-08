@@ -1,0 +1,14 @@
+{
+  "name": "mediator-pattern-typescript",
+  "version": "1.0.0",
+  "description": "Behavioral Mediator pattern implementation in TypeScript",
+  "main": "dist/behavioral/Mediator/index.js",
+  "scripts": {
+    "start": "ts-node src/behavioral/Mediator/index.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
